@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Progetti\BumpArcade\Yolo_mark\x64\Release\yolo_mark.exe</FullPath>
+      <FullPath>D:\Progetti\ThirdParty\Yolo_mark\x64\Release\yolo_mark.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
